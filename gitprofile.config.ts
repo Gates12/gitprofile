@@ -26,29 +26,20 @@ const CONFIG = {
         projects: ['Gates12/TravellerHub', 'Gates12/2More2Go', 'Gates12/Mapit', 'Gates12/Senthil-Cinema', 'Gates12/College-Portal', 'Gates12/Airline-Management-System'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
-    external: {
-      header: 'My Projects',
-      // To hide the `External Projects` section, keep it empty.
-      projects: [
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
-      ],
-    },
+      external: {
+    header: 'My Achievements',
+    projects: [
+      {
+        title: 'Achievements',
+        description: `
+          • Achieved top honors at the Samsung Innovation Hackathon.
+          • Codechef Rated Expert with Highest Rating of 2341.
+          • Highest Contest Rating of 1543 on LeetCode.
+        `,
+      },
+    ],
   },
+
   seo: {
     title: 'Portfolio of Ariful Alam',
     description: '',
