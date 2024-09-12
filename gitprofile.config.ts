@@ -20,18 +20,10 @@ const CONFIG = {
     github: {
       display: true, // Display GitHub projects?
       header: 'Github Projects',
-      mode: 'automatic', // Mode can be: 'automatic' or 'manual'
-      automatic: {
-        sortBy: 'stars', // Sort projects by 'stars' or 'updated'
-        limit: 6, // How many projects to display.
-        exclude: {
-          forks: true, // Forked projects will not be displayed if set to true.
-          projects: ['ATM-SIMULATOR', 'JAVA-PROJECT', 'Movie-Ticket-Booking-system'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
-        },
-      },
+      mode: 'manual', // Mode can be: 'automatic' or 'manual'
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['Gates12/TravellerHub', 'Gates12/2More2Go', 'Gates12/Mapit', 'Gates12/Senthil-Cinema', 'Gates12/College-Portal', 'Gates12/Airline-Management-System'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
