@@ -19,7 +19,7 @@ const CONFIG = {
   projects: {
     github: {
       display: true, // Display GitHub projects?
-      header: 'Github Projects',
+      header: 'My Projects',
       mode: 'manual', // Mode can be: 'automatic' or 'manual'
       manual: {
         // Properties for manually specifying projects
@@ -57,23 +57,15 @@ const CONFIG = {
   social: {
     linkedin: 'https://www.linkedin.com/in/gates-babu/',
     twitter: 'https://x.com/SamuelG24726522',
-    mastodon: 'arifszn@mastodon.social',
-    researchGate: '',
-    facebook: '',
     instagram: 'https://www.instagram.com/__samuel56/?next=%2F',
-    reddit: '',
-    threads: '',
-    youtube: '', // example: 'pewdiepie'
-    udemy: '',
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://www.arifszn.com',
-    phone: '',
+    reddit: 'https://www.reddit.com/user/Gates168/',
+    youtube: 'https://www.youtube.com/@gates9906', // example: 'pewdiepie'
+    udemy: 'https://www.udemy.com/user/samuel-gates-9/',
+    medium: 'https://medium.com/@samuelgates36',
+    dev: 'https://dev.to/gates_e1ba6f41d487181e992',
+    telegram: '@gates65',
+    website: 'https://gates12.github.io/gitprofile/',
+    phone: '+91 9618028283',
     email: 'gatesbabudakarapu18@gmail.com',
   },
   resume: {
@@ -110,14 +102,6 @@ const CONFIG = {
       from: 'August 2024',
       to: 'November 2024',
       companyLink: 'https://abata.in/',
-    },
-  ],
-  certifications: [
-    {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
     },
   ],
   educations: [
