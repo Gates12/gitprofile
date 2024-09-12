@@ -32,11 +32,11 @@ const CONFIG = {
       projects: [
         {
         title: 'Achievements',
-        description: '
+        description:`
           • Achieved top honors at the Samsung Innovation Hackathon.
           • Codechef Rated Expert with Highest Rating of 2341.
           • Highest Contest Rating of 1543 on LeetCode.
-        ',
+        `,
         },
       ],
   },
