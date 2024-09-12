@@ -26,22 +26,29 @@ const CONFIG = {
         projects: ['Gates12/TravellerHub', 'Gates12/2More2Go', 'Gates12/Mapit', 'Gates12/Senthil-Cinema', 'Gates12/College-Portal', 'Gates12/Airline-Management-System'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
-     external: {
-      header: 'My Achievements',
+   external: {
+      header: 'Achievements',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-        title: 'Achievements',
-        description:`
-          • Achieved top honors at the Samsung Innovation Hackathon.
-          • Codechef Rated Expert with Highest Rating of 2341.
-          • Highest Contest Rating of 1543 on LeetCode.
-        `,
+          title: 'Samsung Innovation Campus',
+          description:
+            'Achieved Top honors at the prestigious Samsung Innovation Hackathon, showcasing exceptional problem-solving and innovative skills.',
+          imageUrl:
+            'https://img.us.news.samsung.com/us/wp-content/uploads/2022/11/29175233/SIC-NWSRM-Featured-Image-798-%C3%97-500-px.png',
+          link: 'https://sic.edc.org/',
+        },
+        {
+          title: 'LeetCode',
+          description:
+            'Attained an impressive **Highest Contest Rating of 1543 on LeetCode**, placing among the top percentile of global programmers.',
+          imageUrl:
+            'https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png',
+          link: 'https://leetcode.com/u/nycstriker01/',
         },
       ],
     },
   },
-
   seo: {
     title: 'Portfolio of Ariful Alam',
     description: '',
