@@ -3,7 +3,7 @@
 const CONFIG = {
   github: {
     username: 'Gates12', // Your GitHub org/user name. (This is the only required config)
-    ortBy: 'stars', // stars | updated
+    sortBy: 'stars', // stars | updated
     limit: 6, // How many projects to display.
     exclude: {
       forks: true, // Forked projects will not be displayed if set to true.
@@ -39,6 +39,7 @@ const CONFIG = {
         `,
         },
       ],
+    },
   },
 
   seo: {
