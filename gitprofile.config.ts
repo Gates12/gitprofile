@@ -55,12 +55,12 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
+    linkedin: 'https://www.linkedin.com/in/gates-babu/',
+    twitter: 'https://x.com/SamuelG24726522',
     mastodon: 'arifszn@mastodon.social',
     researchGate: '',
     facebook: '',
-    instagram: '',
+    instagram: 'https://www.instagram.com/__samuel56/?next=%2F',
     reddit: '',
     threads: '',
     youtube: '', // example: 'pewdiepie'
@@ -74,42 +74,42 @@ const CONFIG = {
     telegram: '',
     website: 'https://www.arifszn.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'gatesbabudakarapu18@gmail.com',
   },
   resume: {
     fileUrl:
       'https://drive.google.com/file/d/1wG1hPYMIScOPkPogXMix5oIu6iAbzf4t/view', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'C',
+    'C++',
     'JavaScript',
     'React.js',
     'Node.js',
-    'Nest.js',
+    'Next.js',
     'MySQL',
     'PostgreSQL',
     'Git',
-    'Docker',
-    'PHPUnit',
+    'Java',
+    'Tailwind CSS',
     'CSS',
-    'Antd',
-    'Tailwind',
+    'Linux',
+    'Python',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'Digital Swiftly',
+      position: 'MERN Stack Developer',
+      from: 'August 2023',
+      to: 'November 2023',
+      companyLink: 'https://digitalswiftly.com/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Abata AI',
+      position: 'Web Developer',
+      from: 'August 2024',
+      to: 'November 2024',
+      companyLink: 'https://abata.in/',
     },
   ],
   certifications: [
@@ -122,16 +122,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Indian Institute of Information Technology Lucknow',
+      degree: 'Bachelors  Degree',
+      from: '2020',
+      to: '2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Narayana Jr College',
+      degree: 'Intermediate',
+      from: '2018',
+      to: '2020',
     },
   ],
 
@@ -217,7 +217,7 @@ const CONFIG = {
       class="text-primary" href="https://github.com/arifszn/gitprofile"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >GitProfile</a>`,
 
   enablePWA: true,
 };
