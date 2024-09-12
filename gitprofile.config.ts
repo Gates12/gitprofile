@@ -30,13 +30,14 @@ const CONFIG = {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
+        {
         title: 'Achievements',
         description: ',
           • Achieved top honors at the Samsung Innovation Hackathon.',
           • Codechef Rated Expert with Highest Rating of 2341.',
           • Highest Contest Rating of 1543 on LeetCode.',
+        },
       ],
-    },
   },
 
   seo: {
