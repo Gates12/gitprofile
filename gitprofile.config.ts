@@ -3,6 +3,12 @@
 const CONFIG = {
   github: {
     username: 'Gates12', // Your GitHub org/user name. (This is the only required config)
+    ortBy: 'stars', // stars | updated
+    limit: 6, // How many projects to display.
+    exclude: {
+      forks: false, // Forked projects will not be displayed if set to true.
+      projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+    },
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
