@@ -50,7 +50,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Gates Babu',
     description: '',
     imageURL: '',
   },
