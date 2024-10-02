@@ -23,7 +23,7 @@ const CONFIG = {
       mode: 'manual', // Mode can be: 'automatic' or 'manual'
       manual: {
         // Properties for manually specifying projects
-        projects: ['Gates12/TravellerHub', 'Gates12/2More2Go', 'Gates12/Mapit', 'Gates12/Senthil-Cinema', 'Gates12/College-Portal', 'Gates12/Airline-Management-System'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['Gates12/TravellerHub', 'Gates12/2More2Go', 'Gates12/Mapit', 'Gates12/Senthil-Cinema', 'Gates12/College-Portal', 'Gates12/Airline-Ticketing-System'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
    external: {
