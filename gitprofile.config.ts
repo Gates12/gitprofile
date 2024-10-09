@@ -90,11 +90,11 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Digital Swiftly',
+      company: 'Mynerva',
       position: 'MERN Stack Developer',
       from: 'August 2023',
       to: 'November 2023',
-      companyLink: 'https://digitalswiftly.com/',
+      companyLink: 'https://www.mynerva.in/',
     },
     {
       company: 'Abata AI',
