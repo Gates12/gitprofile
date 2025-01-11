@@ -100,8 +100,15 @@ const CONFIG = {
       company: 'Abata AI',
       position: 'Web Developer',
       from: 'August 2024',
-      to: 'November 2024',
+      to: 'October 2024',
       companyLink: 'https://abata.in/',
+    },
+    {
+      company: 'Outlier',
+      position: 'Machine Learning Engineer',
+      from: 'November 2024',
+      to: 'Present',
+      companyLink: 'https://www.linkedin.com/company/try-outlier/posts/?feedView=all',
     },
   ],
   educations: [
