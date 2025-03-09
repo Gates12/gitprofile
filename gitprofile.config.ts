@@ -98,7 +98,7 @@ const CONFIG = {
     },
     {
       company: 'Abata AI',
-      position: 'Web Developer',
+      position: 'Backend Developer',
       from: 'August 2024',
       to: 'October 2024',
       companyLink: 'https://abata.in/',
