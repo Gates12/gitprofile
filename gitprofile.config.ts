@@ -70,7 +70,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1wG1hPYMIScOPkPogXMix5oIu6iAbzf4t/view', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1wG1hPYMIScOPkPogXMix5oIu6iAbzf4t/view?pli=1', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'C',
@@ -112,7 +112,7 @@ const CONFIG = {
     },
     {
       company: 'Hashout Technologies',
-      position: 'SRE',
+      position: 'Site Reliability Engineer',
       from: 'March 2025',
       to: 'Present',
       companyLink: 'https://www.linkedin.com/company/hashout-technologies/',
@@ -134,14 +134,8 @@ const CONFIG = {
   ],
 
   // Display articles from your medium or dev account. (Optional)
-  blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
-    limit: 2, // How many articles to display. Max is 10.
-  },
-  googleAnalytics: {
-    id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-  },
+  
+  
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: {
     id: '',
