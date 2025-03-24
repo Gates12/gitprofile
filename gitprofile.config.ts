@@ -110,6 +110,13 @@ const CONFIG = {
       to: 'Present',
       companyLink: 'https://www.linkedin.com/company/try-outlier/posts/?feedView=all',
     },
+    {
+      company: 'Hashout Technologies',
+      position: 'SRE',
+      from: 'March 2025',
+      to: 'Present',
+      companyLink: 'https://www.linkedin.com/company/hashout-technologies/',
+    },
   ],
   educations: [
     {
