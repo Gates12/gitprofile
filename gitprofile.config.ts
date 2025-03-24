@@ -58,11 +58,6 @@ const CONFIG = {
     linkedin: 'https://www.linkedin.com/in/gates-babu/',
     twitter: 'https://x.com/SamuelG24726522',
     instagram: 'https://www.instagram.com/__samuel56/?next=%2F',
-    reddit: 'https://www.reddit.com/user/Gates168/',
-    youtube: 'https://www.youtube.com/@gates9906', // example: 'pewdiepie'
-    udemy: 'https://www.udemy.com/user/samuel-gates-9/',
-    medium: 'https://medium.com/@samuelgates36',
-    dev: 'https://dev.to/gates_e1ba6f41d487181e992',
     telegram: '@gates65',
     website: 'https://gates12.github.io/gitprofile/',
     phone: '+91 9618028283',
@@ -109,6 +104,13 @@ const CONFIG = {
       from: 'November 2024',
       to: 'Present',
       companyLink: 'https://www.linkedin.com/company/try-outlier/posts/?feedView=all',
+    },
+    {
+      company: 'Upgrad',
+      position: 'Full Stack Development Mentor',
+      from: 'March 2025',
+      to: 'Present',
+      companyLink: 'https://www.linkedin.com/company/ueducation/',
     },
     {
       company: 'Hashout Technologies',
