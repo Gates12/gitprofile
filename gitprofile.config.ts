@@ -114,7 +114,7 @@ const CONFIG = {
     },
     {
       company: 'Hashout Technologies',
-      position: 'Site Reliability Engineer',
+      position: 'Software Engineer',
       from: 'March 2025',
       to: 'Present',
       companyLink: 'https://www.linkedin.com/company/hashout-technologies/',
