@@ -56,32 +56,27 @@ const CONFIG = {
   },
   social: {
     linkedin: 'https://www.linkedin.com/in/gates-babu/',
-    twitter: 'https://x.com/SamuelG24726522',
-    instagram: 'https://www.instagram.com/__samuel56/?next=%2F',
-    telegram: '@gates65',
     website: 'https://gates12.github.io/gitprofile/',
     phone: '+91 9618028283',
     email: 'gatesbabudakarapu18@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1wG1hPYMIScOPkPogXMix5oIu6iAbzf4t/view?pli=1', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1hj-zg4JBkWngDE_dSt0DeBkZKbno8-0Y/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'C',
-    'C++',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Next.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
     'Java',
-    'Tailwind CSS',
-    'CSS',
-    'Linux',
     'Python',
+    'Goland',
+    'SpringBoot',
+    'Docker',
+    'Kubernetes',
+    'Linux',
+    'SQL',
+    'Jenkins',
+    'AWS',
+    'Ansible,',
+    'Terraform,',
   ],
   experiences: [
     {
@@ -90,20 +85,6 @@ const CONFIG = {
       from: 'August 2024',
       to: 'January 2025',
       companyLink: 'https://abata.in/',
-    },
-    {
-      company: 'Outlier',
-      position: 'Free Lance',
-      from: 'November 2024',
-      to: 'March 2025',
-      companyLink: 'https://www.linkedin.com/company/try-outlier/posts/?feedView=all',
-    },
-    {
-      company: 'Upgrad',
-      position: 'Full Stack Development Mentor',
-      from: 'March 2025',
-      to: 'June 2025',
-      companyLink: 'https://www.linkedin.com/company/ueducation/',
     },
     {
       company: 'Hashout Technologies',
