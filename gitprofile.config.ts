@@ -58,7 +58,7 @@ const CONFIG = {
     linkedin: 'https://www.linkedin.com/in/gates-babu/',
     website: 'https://gates12.github.io/gitprofile/',
     phone: '+91 9618028283',
-    email: 'gatesbabudakarapu18@gmail.com',
+    email: 'gatesbabu1@gmail.com',
   },
   resume: {
     fileUrl:
