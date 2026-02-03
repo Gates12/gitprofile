@@ -85,15 +85,8 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Mynerva',
-      position: 'MERN Stack Developer',
-      from: 'August 2023',
-      to: 'November 2023',
-      companyLink: 'https://www.mynerva.in/',
-    },
-    {
       company: 'Abata AI',
-      position: 'Backend Developer',
+      position: 'Software Engineer Intern',
       from: 'August 2024',
       to: 'January 2025',
       companyLink: 'https://abata.in/',
@@ -102,14 +95,14 @@ const CONFIG = {
       company: 'Outlier',
       position: 'Free Lance',
       from: 'November 2024',
-      to: 'Present',
+      to: 'March 2025',
       companyLink: 'https://www.linkedin.com/company/try-outlier/posts/?feedView=all',
     },
     {
       company: 'Upgrad',
       position: 'Full Stack Development Mentor',
       from: 'March 2025',
-      to: 'Present',
+      to: 'June 2025',
       companyLink: 'https://www.linkedin.com/company/ueducation/',
     },
     {
